@@ -45,8 +45,11 @@
 		+ colspan:2.单元格所占的列.
 		+ rowspan:3.单元格所占的行.
 ### 表单
+
+	- fieldset     legend     分隔框    legend 类似表头 名字
+
 	- form标签.用于包括输入框,提交数据.
-		+ action
+		+ action  提交地址
 		+ method:get/post.默认是get方式.提交方式
 			* get.
 				- 参数放到地址栏提交.
@@ -184,4 +187,9 @@
 		+ 出错更易查错.
 ### 难点
 	- class命名.不清楚一个页面内某个部分叫什么名字.
-### 
+
+### 表单
+
+	- readonly 只读属性
+
+	- disabled 不可用属性
